@@ -1,0 +1,11 @@
+# Ignore video and large media files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+YOUR_VIDEO_FILE.mp4
+
+# OS generated files
+Thumbs.db
+.DS_Store
